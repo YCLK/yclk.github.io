@@ -2,10 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://blog.yclk.me/posts/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://blog.yclk.me/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://blog.yclk.me/posts/review/hp_stream_13_review_in_2024/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/tips/weekly_study_planner_templete_pdf/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/tips/anki_chinese_character_templete/</loc>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/review/samsung_sens_q45_review/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/tips/how_to_certificate_github_student_developer_pack/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.yclk.me/categories/</loc>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/</loc>
+  </url><url>
+    <loc>https://blog.yclk.me/search/</loc>
+  </url><url>
+    <loc>https://blog.yclk.me/archives/</loc>
   </url>
 </urlset>
